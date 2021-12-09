@@ -37,7 +37,8 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-- Election-Audit Summary: 
+- Election-Audit Summary:
+
 The dataset we've been given is somewhat limited with regards to who the voters really were. To be more precise, if the data has information about the political parties of each candidate, then we could have had an anaylsis on which political party each county is more aligned with and as a result we could also have a better idea on where the voters stand politically. With such information included in the dataset, we could simply add another `for` loop and `if statement` in the script and create an output that shows which county is democratic, republican, or etc.
 
 Also, if each ballot ID was associated with voters' race and/or gender, I think this analysis could have demonstrated a lot more specific results. Just like with the political party, we could have had a section in the output that shows which race and/or gender tends to cast ballots for each candiate.
