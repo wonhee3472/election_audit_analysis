@@ -16,7 +16,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 ## Election Audit Results
 The analysis of the election shows the followings:
 
-![](analysis/election_analysis.txt)
+![](Data/election_analysis_screenshot.png)
 
 ## Election-Audit Summary:
 
